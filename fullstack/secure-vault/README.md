@@ -15,7 +15,7 @@ This project is a single HTML file with zero build dependencies — no npm, no W
 ### Run Locally
 
 ```bash
-git clone https://github.com/your-username/securevault.git
+git clone https://github.com/AR-JUNA/AmaliTech-DEG-Project-based-challenges.git
 cd securevault
 
 # Option 1: Python (any machine)
