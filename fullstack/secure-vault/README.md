@@ -2,9 +2,9 @@
 
 A high-performance, accessible file explorer UI built for SecureVault Inc., a company serving law firms and financial institutions. Designed for navigating deeply nested secure document structures with speed and precision.
 
-**Live Demo:** [https://your-username.github.io/securevault](https://your-username.github.io/securevault) ← _replace after deployment_
+**Live Demo:** [https://your-username.github.io/securevault](https://ar-juna.github.io/AmaliTech-DEG-Project-based-challenges/)
 
-**Design File:** [Figma – SecureVault Design System](https://www.figma.com/file/...) ← _replace with your Figma link_
+**Design File:** [Figma – SecureVault Design System](https://www.figma.com/design/V11StJkouFM3Yzf7F6yazC/Design-System-Reference?node-id=0-1&t=S4SenDxxGafb6lkC-1)
 
 ---
 
@@ -30,7 +30,7 @@ python3 -m http.server 8080
 
 ```bash
 # From your repo settings → Pages → Source: main branch / root
-# Your app will be live at: https://your-username.github.io/securevault
+# Your app will be live at: https://ar-juna.github.io/AmaliTech-DEG-Project-based-challenges/
 ```
 
 ---
